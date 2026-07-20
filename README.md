@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="SEU_BANNER_AQUI"/>
-
 # Gustavo Andrade
 
 ### Software Engineering Student | Backend Developer
