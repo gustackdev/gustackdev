@@ -72,10 +72,6 @@ Interested in building reliable, maintainable and scalable software.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gustackdev&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustackdev&theme=github_dark&layout=compact&hide_border=true"/>
-
 </div>
 
 <br>
@@ -83,6 +79,29 @@ Interested in building reliable, maintainable and scalable software.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustackdev&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gustackdev/gustackdev/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gustackdev/gustackdev/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/gustackdev/gustackdev/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
