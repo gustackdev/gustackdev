@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-eight-khaki-23.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-17191F?style=for-the-badge&logo=vercel&logoColor=F2C230" alt="Portfolio" /></a>
+  <a href="https://portfolio-eight-khaki-23.vercel.app/"><img src="./portfolio-badge.svg" height="28" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/gustavo-santos-andrade-9a003b27b/"><img src="https://img.shields.io/badge/LINKEDIN-17191F?style=for-the-badge&logo=linkedin&logoColor=F2C230" alt="LinkedIn" /></a>
   <a href="mailto:guspatty17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-17191F?style=for-the-badge&logo=gmail&logoColor=F2C230" alt="Email" /></a>
 </p>
